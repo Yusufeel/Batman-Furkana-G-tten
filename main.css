@@ -1,0 +1,19 @@
+body{background-color:black;
+color: red;
+font-family: 'Creepster', cursive;
+display:flex;
+flex-direction: column;
+align-items: center;
+}
+
+.Yol{
+font-weight: bold;
+}
+
+body img{
+ border-radius: 10px;   
+}
+
+body li{
+ margin-top: 5px;
+}
